@@ -1,4 +1,4 @@
-# Awesome Pruning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Spiking neural networks [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of Spiking neural networks and related resources. Inspired by [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision), [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning), [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) and [Awesome-NAS](https://github.com/D-X-Y/Awesome-NAS).
 
@@ -9,7 +9,7 @@ Please feel free to [pull requests](https://github.com/r1marcus/Awsome-Spiking-n
 
 ## Table of Contents
 
-- [Type of Pruning](#type-of-pruning)
+- [Type of Spiking neural networks](#type-of-Spiking neural networks)
 
 - [2020 Venues](#2020)
 
@@ -23,7 +23,7 @@ Please feel free to [pull requests](https://github.com/r1marcus/Awsome-Spiking-n
 
 - [2015 Venues](#2015)
 
-### Type of Pruning
+### Type of Spiking neural networks
 
 | Type        | `F`            | `W`            | `Other`     |
 |:----------- |:--------------:|:--------------:|:-----------:|
