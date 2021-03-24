@@ -43,6 +43,7 @@ Please feel free to [pull requests](https://github.com/r1marcus/Awsome-Spiking-n
 | Title                                                                                                                            | X | X    | X |
 |:-------------------------------------------------------------------------------------------------------------------------------- |:-----:|:-------:|:----:|
 | [akida](https://brainchipinc.com/akida-development-environment/) | x | x     | x   |
+| [sinabs](https://gitlab.com/synsense/sinabs) | x | x     | x   |
 
 ### 2020
 
