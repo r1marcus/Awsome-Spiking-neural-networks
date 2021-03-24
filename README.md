@@ -34,11 +34,15 @@ Please feel free to [pull requests](https://github.com/r1marcus/Awsome-Spiking-n
 
 | Title                                                                                                                            | X | X    | X |
 |:-------------------------------------------------------------------------------------------------------------------------------- |:-----:|:-------:|:----:|
-
 | [synsense](https://www.synsense-neuromorphic.com/dev-kit) | x | x     | x   |
+| [akida](https://www.all-electronics.de/neuronales-soc-akida-brainchip-startet-early-access-programm/) | x | x     | x   |
 
 
+### Frameworks
 
+| Title                                                                                                                            | X | X    | X |
+|:-------------------------------------------------------------------------------------------------------------------------------- |:-----:|:-------:|:----:|
+| [akida](https://brainchipinc.com/akida-development-environment/) | x | x     | x   |
 
 ### 2020
 
