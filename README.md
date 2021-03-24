@@ -30,6 +30,16 @@ Please feel free to [pull requests](https://github.com/r1marcus/Awsome-Spiking-n
 | Explanation | Filter pruning | Weight pruning | other types |
 
 
+### Hardware
+
+| Title                                                                                                                            | X | X    | X |
+|:-------------------------------------------------------------------------------------------------------------------------------- |:-----:|:-------:|:----:|
+
+| [synsense](https://www.synsense-neuromorphic.com/dev-kit) | x | x     | x   |
+
+
+
+
 ### 2020
 
 | Title                                                                                                                            | Venue | Type    | Code |
